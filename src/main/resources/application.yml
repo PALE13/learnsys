@@ -1,0 +1,7 @@
+spring:
+  mvc:
+    static-path-pattern: '/upload/learn/**'
+  resources:
+    static-locations: 'file:C:/upload/learn/'
+
+
